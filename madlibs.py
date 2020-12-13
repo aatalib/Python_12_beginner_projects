@@ -1,10 +1,5 @@
 youtuber = "Ali Talib"
 # A few way ways to do it
-<<<<<<< Updated upstream
-print("subscribe to " + youtuber)
-print("subscribe to {}".format(youtuber))
-print(f"subscribe to {youtuber}")
-=======
 # print("subscribe to " + youtuber)
 # print("subscribe to {}".format(youtuber))
 # print(f"subscribe {youtuber}")
@@ -19,4 +14,3 @@ I love to {verb1}. Stay hydrated and {verb2} like you are {famous_person}!"
 
 
 print(madlib)
->>>>>>> Stashed changes
